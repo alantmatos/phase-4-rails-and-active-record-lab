@@ -35,3 +35,5 @@ group :test do
   gem 'rspec-json_expectations'
   gem 'shoulda-matchers', '~> 4.0'
 end
+
+gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
